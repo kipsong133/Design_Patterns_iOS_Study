@@ -1,4 +1,7 @@
+
 # 1. What are Design Patterns?
+![김밥사진](https://user-images.githubusercontent.com/65879950/129715772-6f94db32-308b-47bb-9569-daa5d87759f6.jpg)
+(이미지 출처: https://unsplash.com/photos/iIS1SIO5_aY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 <br/><br/>
 ## 신입: 두렵다… 디자인 패턴…
 
