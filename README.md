@@ -10,8 +10,8 @@ https://www.raywenderlich.com/books/design-patterns-by-tutorials
 
 | Section 1,2 : Fundamental Degisn Patterns | 링크 |
 | :---------------------------------------- | ---- |
-| 1. What are Design Patterns?              |      |
-| 2. How to Read a Class Diagram            |      |
+| 1. What are Design Patterns?              |https://velog.io/@kipsong/1.-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC|
+| 2. How to Read a Class Diagram            |https://velog.io/@kipsong/How-to-read-a-Class-Diagram|
 | 3. Moel - View - Controller Pattern       |      |
 | 4. Delegation Pattern                     |      |
 | 5. Strategy Pattern                       |      |
