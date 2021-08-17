@@ -1,5 +1,8 @@
 # 2. How to read a Class Diagram
 <br/><br/>
+![halacious-weRQAu9TA-A-unsplash](https://user-images.githubusercontent.com/65879950/129724690-3b9f5abd-aa8d-40dd-a25b-7d7da5c16258.jpg)
+
+(이미지출처: https://unsplash.com/photos/weRQAu9TA-A?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink_)
 
 디자인 패턴을 이해하기 위해서 좋은 도구인 “클래스 다이어그램 (Class diagram)” 에 대해서 간략히 알아보겠습니다.
 
