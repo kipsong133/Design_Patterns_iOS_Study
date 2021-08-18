@@ -4,7 +4,12 @@
 
 링크에는 "Velog" 링크를 작성할 예정입니다.
 
-해당 글은 Raywenderlich에 있는 책 "Design Pattern by Tutorials" 를 기반으로 작성합니다.
+해당 글은 Raywenderlich에 있는 책 "Design Pattern by Tutorials" 을 가장 많이 참고했으며 목차의 순서를 동일하게 가져왔습니다.
+다만 내용은 일부 차용했으나, 다른 블로그 및 책의 내용 추가했고, 제 경험와 버부렸습니다.
+
+`(raywenderlicnh + 블로그 + 다른 책) * 제 경험 = 작성된 글`
+
+글에 대한 원본을 보고 싶으시면, 해당 링크를 통해 확인해보시면 좋을 것 같습니다.
 
 https://www.raywenderlich.com/books/design-patterns-by-tutorials
 
