@@ -14,7 +14,7 @@ https://www.raywenderlich.com/books/design-patterns-by-tutorials
 | 2. How to Read a Class Diagram            |https://velog.io/@kipsong/How-to-read-a-Class-Diagram|
 | 3. Moel - View - Controller Pattern       |https://velog.io/@kipsong/Mode-View-Controller-Pattern|
 | 4. Delegation Pattern                     |https://velog.io/@kipsong/Delegation-Pattern|
-| 5. Strategy Pattern                       |      |
+| 5. Strategy Pattern                       |https://velog.io/@kipsong/Strategy-Pattern|
 | 6. Singleton Pattern                      |      |
 | 7. Memento Pattern                        |      |
 | 8. Observer Pattern                       |      |
