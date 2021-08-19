@@ -27,7 +27,7 @@ https://www.raywenderlich.com/books/design-patterns-by-tutorials
 
 | Section 3 : Intermediate Design Patterns | 링크 |
 | ---------------------------------------- | ---- |
-| 10. Model - View - ViewModel Pattern     |      |
+| 10. Model - View - ViewModel Pattern     |https://velog.io/@k7120792/Model-View-ViewModel-Pattern|
 | 11. Factory Pattern                      |      |
 | 12. Adapter Pattern                      |      |
 | 13. Iterator Pattern                     |      |
