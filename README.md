@@ -21,8 +21,8 @@ https://www.raywenderlich.com/books/design-patterns-by-tutorials
 | 4. Delegation Pattern                     |https://velog.io/@kipsong/Delegation-Pattern|
 | 5. Strategy Pattern                       |https://velog.io/@kipsong/Strategy-Pattern|
 | 6. Singleton Pattern                      |https://velog.io/@kipsong/Singleton-Pattern|
-| 7. Memento Pattern                        |      |
-| 8. Observer Pattern                       |      |
+| 7. Memento Pattern                        |https://velog.io/@kipsong/Memento-Pattern|
+| 8. Observer Pattern                       |https://velog.io/@kipsong/Observer-Pattern|
 | 9. Builder Pattern                        |      |
 
 | Section 3 : Intermediate Design Patterns | 링크 |
