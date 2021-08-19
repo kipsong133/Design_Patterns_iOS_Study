@@ -20,7 +20,7 @@ https://www.raywenderlich.com/books/design-patterns-by-tutorials
 | 3. Moel - View - Controller Pattern       |https://velog.io/@kipsong/Mode-View-Controller-Pattern|
 | 4. Delegation Pattern                     |https://velog.io/@kipsong/Delegation-Pattern|
 | 5. Strategy Pattern                       |https://velog.io/@kipsong/Strategy-Pattern|
-| 6. Singleton Pattern                      |      |
+| 6. Singleton Pattern                      |https://velog.io/@kipsong/Singleton-Pattern|
 | 7. Memento Pattern                        |      |
 | 8. Observer Pattern                       |      |
 | 9. Builder Pattern                        |      |
