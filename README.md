@@ -23,7 +23,7 @@ https://www.raywenderlich.com/books/design-patterns-by-tutorials
 | 6. Singleton Pattern                      |https://velog.io/@kipsong/Singleton-Pattern|
 | 7. Memento Pattern                        |https://velog.io/@kipsong/Memento-Pattern|
 | 8. Observer Pattern                       |https://velog.io/@kipsong/Observer-Pattern|
-| 9. Builder Pattern                        |      |
+| 9. Builder Pattern                        |https://velog.io/@kipsong/Builder-Pattern|
 
 | Section 3 : Intermediate Design Patterns | 링크 |
 | ---------------------------------------- | ---- |
